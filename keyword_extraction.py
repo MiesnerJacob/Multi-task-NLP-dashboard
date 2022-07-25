@@ -150,7 +150,7 @@ class KeywordExtractor:
         indices = list(self.get_keyword_indices(kws, text))
         if indices:
             indices_merged = self.merge_until_finished(indices)
-            annotation = self.get_annotation(text, indices_merged, kws)
+            annotation = self.get_annotation(text, indices_merged)
         else:
             annotation = None
 
