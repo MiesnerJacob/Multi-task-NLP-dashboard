@@ -115,7 +115,7 @@ if page == "Welcome!":
         """
         * This dashboard was constructed by myself, but every resource used is open-source! If you are interested in my other works you can view them here:
         
-           [Project Github](https://github.com/MiesnerJacob/nlp-dashboard)
+           [Project Github](https://github.com/MiesnerJacob/Multi-task-NLP-dashboard)
            
            [Jacob Miesner's Github](https://github.com/MiesnerJacob)
            
