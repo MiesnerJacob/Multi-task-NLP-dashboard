@@ -1,12 +1,12 @@
-sklearn~=0.0
-tensorflow~=2.5.0
-tensorflow-hub~=0.12.0
-nltk~=3.5
+scikit-learn
+tensorflow==2.5.0
+tensorflow-hub==0.12.0
+nltk==3.5
 typing-extensions==3.7.4.3
-streamlit-option-menu~=0.3.2
-st-annotated-text~=3.0.0
-transformers-interpret~=0.7.2
+streamlit-option-menu==0.3.2
+st-annotated-text==3.0.0
+transformers-interpret==0.7.2
 htbuilder==0.6.0
-pytextrank~=3.2.3
-spacy~=3.0.5
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+pytextrank==3.2.3
+spacy==3.8.3
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
